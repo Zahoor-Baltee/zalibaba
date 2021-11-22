@@ -1,0 +1,325 @@
+.big{
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.lol{
+    border: 3px solid #ff6a00;
+    border-radius: 25px;
+}
+.but1{
+    background-color: #ff6a00;
+    border-radius: 0px 25px 25px 0px;
+}
+.big a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.685);
+    font-size: small;
+}
+.log p{
+    font-size: small;
+}
+.clist a{
+    color: black;
+}
+
+.clist .usa i{
+    color: rgba(255, 0, 0, 0.705);
+}
+/* navigation end */
+.fristpage{
+    background-color: #f2f3f7;
+}
+.fristpage .container{
+    background-color: #ffff;
+}
+.car1{
+    background-color: #3b3b3b;
+    color: #f2cb8e;
+}
+.car2{
+    height: 30px;
+    text-align: center;
+    background-color: #ff4f00;
+    color: #ffff;
+    padding-top: 4px;
+}
+
+.btn button{
+    background-color: #f2cb8e;
+}
+/* fristpage end */
+
+.secondpage{
+    background-color: #f2f3f7;
+}
+.secondpage .container .fontp{
+    font-size: x-small;
+    font-weight: 400;
+    color: #97667f;
+}
+.secondpage .container .img{
+    background-color: #f2f3f7;
+}
+.fourthpage{
+    background-color: #f2f3f7;
+}
+.fourthpage .container .card{
+    background-color: #f2f3f7;
+}
+.fourthpage .container .white{
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.fifthpage{
+    background-color: #f2f3f7;
+}
+.fifthpage .container{
+    background-color: white;
+}
+.fifthpage .container .headerline{
+    
+    background-color: #f2f3f7;
+}
+.fifthpage .container .line{
+    height: 5px;
+    width: 100%;
+    background-color: grey;
+}
+.fifthpage .container .img{
+    background-image: url("../images/chair.jpg");
+    height: 300px;
+    width: 100%;
+}
+.fifthpage .container .img .data{
+    color: white;
+}
+.fifthpage .container .img .data .btn button{
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 100px;
+    border: none;
+    padding-left: 4px;
+}
+/* six */
+.sixthpage{
+    background-color: #f2f3f7;
+}
+.sixthpage .container{
+    background-color: white;
+}
+.sixthpage .container .headerline{
+    
+    background-color: #f2f3f7;
+}
+.sixthpage .container .line{
+    height: 5px;
+    width: 100%;
+    background-color: grey;
+}
+.sixthpage .container .img{
+    background-image: url("../images/apr.jpg");
+    height: 300px;
+    width: 100%;
+}
+.sixthpage .container .img .data{
+    color: white;
+}
+.sixthpage .container .img .data .btn button{
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 100px;
+    border: none;
+    padding-left: 4px;
+}
+/* seven */
+.seventhpage{
+    background-color: #f2f3f7;
+}
+.seventhpage .container{
+    background-color: white;
+}
+.seventhpage .container .headerline{
+    
+    background-color: #f2f3f7;
+}
+.seventhpage .container .line{
+    height: 5px;
+    width: 100%;
+    background-color: grey;
+}
+.seventhpage .container .img{
+    background-image: url("../images/mchn.jpg");
+    height: 300px;
+    width: 100%;
+}
+.seventhpage .container .img .data{
+    color: white;
+}
+.seventhpage .container .img .data .btn button{
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 100px;
+    border: none;
+    padding-left: 4px;
+}
+/* eight */
+.eightpage{
+    background-color: #f2f3f7;
+}
+.eightpage .container .bigimg{
+    background-image: url("../images/g-ato.png");
+    color: white;
+}
+.eightpage .container .formm{
+   border: 5px solid rgba(128, 128, 128, 0.479);
+   margin-left: 30px;
+}
+.eightpage .container .headerline{
+    
+    background-color: #f2f3f7;
+}
+.eightpage .container .line{
+    height: 5px;
+    width: 100%;
+    background-color: grey;
+}
+/* weekly */
+.weeklypage {
+    background-color: #f2f3f7;
+}
+.line111{
+    margin-left: 15px;
+     border: 3px solid #dcdee3;
+     border-radius: 3px;
+    width: 100%;
+}
+.m33{
+    margin-top: 10px;
+background-color: #f60;
+color: #fff;
+padding: 9px 16px 7px;
+border-radius: 19px;
+font-size: 16px;
+line-height: 22px;
+    }
+.yyy3{
+        background-color:white;  
+}
+/* nine */
+.ninepage {
+    background-color: #f2f3f7;
+}
+.ninepage .container .line{
+    height: 5px;
+    width: 100%;
+    background-color: grey;
+}
+.ninepage .container .card p{
+    font-size: smaller;
+
+}
+/* ten */
+.tenpage {
+    background-color: #f2f3f7;
+}
+.tenpage .container .card p{
+    font-size: smaller;
+}
+/* eleven */
+.elevenpage{
+    background-color: #f2f3f7;
+}
+.elevenpage .container .line{
+    height: 5px;
+    width: 70%;
+    background-color: grey;
+}
+.elevenpage .container .img{
+    background-image: url("../images/bg-ashoo.webp");
+    height: 180px;
+    background-position: right;
+    background-size: cover;
+    color: white;
+    padding: 40px;
+}
+.elevenpage .container .lol{
+    background-color: white;
+    border: none;
+}
+/* twelve */
+.twelvepage{
+    background-color: #f2f3f7;
+}
+.twelvepage .container .line{
+    height: 5px;
+    width: 70%;
+    background-color: grey;
+}
+.twelvepage .container .region li{
+    list-style: none;
+    margin: auto;
+    color: rgba(128, 128, 128, 0.61);
+    padding-bottom: 20px;
+}
+.twelvepage .container .region li a{
+    text-decoration: none;
+}
+/* footer last */
+.footer{
+    background-color: #445268;
+}
+.footer .peras{
+    color: white;
+}
+.footer .container h6{
+    font-size: small;
+}
+.footer .container{
+    border-bottom: 1px solid black;
+}
+.footer .container .flist a{
+    text-decoration: none;
+    color: white;
+}
+.footer .container .flist{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.616);
+}
+.footer .container .flist a:hover{
+   text-decoration: underline;
+}
+.footer .container p{
+    font-size: smaller;
+}
+.footer .container .inp input{
+    width: 90%;
+    height: 40px;
+    margin-left: 70px;
+    background: transparent;
+    border-color: white;
+}
+.footer .container .data p{
+    color: white;
+    margin-left: 70px;
+    font-size: small;
+    margin-bottom: 40px;
+}
+.footer .container  button{
+    background: transparent;
+    color: white;
+    height: 40px;
+    border-color: white;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 0 8px;
+}
+.footer .container .footerlast a{
+    text-decoration: none;
+    color: white;
+}
+.footer .container .footerlast{
+    color: white;
+}
